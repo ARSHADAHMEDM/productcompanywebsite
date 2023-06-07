@@ -1,10 +1,10 @@
-# Web Design for a Software Product Company
+## Web Design for a Software Product Company
 
-## AIM:
+### AIM:
 
 To design a static website for a software product company company.
 
-## DESIGN STEPS:
+### DESIGN STEPS:
 
 ### Step 1:
 
@@ -34,7 +34,7 @@ Validate the HTML code.
 
 Publish the website in the given URL.
 
-## CSS CODE :
+### CSS CODE :
 ```css
 * {
   box-sizing: border-box;
@@ -174,7 +174,7 @@ body {
   color: #9c1018;
 }
 ```
-## HOME PAGE HTML CODE:
+### HOME PAGE HTML CODE:
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -307,7 +307,7 @@ body {
   </body>
 </html>
 ```
-## PEOPLE PAGE HTML CODE:
+### PEOPLE PAGE HTML CODE:
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -351,7 +351,7 @@ body {
   </body>
 </html>
 ```
-## CONTACT PAGE HTML CODE:
+### CONTACT PAGE HTML CODE:
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -408,22 +408,22 @@ You can get information about an order you placed on the Apple Online Store thro
   </body>
 </html>
 ```
-## HOME PAGE OUTPUT:
+### HOME PAGE OUTPUT:
 
 ![output](./abo.png)
 
-## PRODUCT PAGE OUTPUT:
+### PRODUCT PAGE OUTPUT:
 
 ![output](./pro.png)
 
-## PEOPLE PAGE OUTPUT:
+### PEOPLE PAGE OUTPUT:
 
 ![OUTPUT](./cceo.png)
 
-## CONTACT PAGE OUTPUT:
+### CONTACT PAGE OUTPUT:
 
 ![output](./sup.png)
 
-## Result:
+### Result:
 
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
